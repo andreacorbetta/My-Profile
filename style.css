@@ -4,6 +4,7 @@ body {
   background-color: rgb(187, 168, 241);
   font-family: 'Nunito', sans-serif;
   font-size: 20px;
+  overflow: hidden;
 }
 
 h1 {
