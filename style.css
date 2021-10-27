@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Poppins:wght@600&display=swap');
+
+body {
+  background-color: rgb(187, 168, 241);
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  color:rgb(164, 53, 238);
+  font-family: 'Poppins', sans-serif;
+  font-size: 58px;
+}
+
+h2 {
+  color:rgb(164, 53, 238);
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color:rgb(164, 53, 238);
+  text-decoration: none;
+  font-size: 40px;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+#pfp {
+  border-radius: 50%;
+  object-fit: fill;
+  width: 24%;
+}
+
+#footer li {
+  display: inline;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prank {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.prank:hover {
+  opacity: 1;
+}
+
+.paragraph {
+  font-size: 20px;
+}
+
+.size-adjust {
+  width: 20%;
+}
+
+.card {
+  background-color: rgb(167, 143, 235);
+  padding-top: 30px;
+  padding-bottom: 1px;
+  margin: 70px;
+  border-radius: 16px;
+}
+
+.pandino {
+  margin-top: 10000px;
+}
+
+.size-pandino {
+  width: 50%;
+}
